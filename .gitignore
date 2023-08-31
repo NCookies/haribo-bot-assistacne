@@ -1,5 +1,6 @@
 ### Custom ###
 bot_auth.py
+music_links.txt
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,visualstudiocode,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,visualstudiocode,windows
